@@ -1,0 +1,1096 @@
+{
+    "Currencies": [
+        {
+            "isoCode": "AED",
+            "isoNumberCode": "784",
+            "currencyName": "dirham de los Emiratos Árabes Unidos",
+            "currencySymbol": "د.إ",
+            "split": "fils"
+        },
+        {
+            "isoCode": "AFN",
+            "isoNumberCode": "971",
+            "currencyName": "Afgani afgano",
+            "currencySymbol": "؋",
+            "split": "pul"
+        },
+        {
+            "isoCode": "ALL",
+            "isoNumberCode": "8",
+            "currencyName": "lek albanés",
+            "currencySymbol": "L",
+            "split": "qindarkë"
+        },
+        {
+            "isoCode": "AMD",
+            "isoNumberCode": "51",
+            "currencyName": "dram armenio",
+            "currencySymbol": "դր.",
+            "split": "luma"
+        },
+        {
+            "isoCode": "ANG",
+            "isoNumberCode": "532",
+            "currencyName": "florín antillano neerlandés",
+            "currencySymbol": "ƒ",
+            "split": "cent"
+        },
+        {
+            "isoCode": "AOA",
+            "isoNumberCode": "973",
+            "currencyName": "kwanza angoleño",
+            "currencySymbol": "Kz",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "ARS",
+            "isoNumberCode": "32",
+            "currencyName": "peso argentino",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "AUD",
+            "isoNumberCode": "36",
+            "currencyName": "dólar australiano",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "AWG",
+            "isoNumberCode": "533",
+            "currencyName": "florín arubeño",
+            "currencySymbol": "ƒ",
+            "split": "cent"
+        },
+        {
+            "isoCode": "AZN",
+            "isoNumberCode": "944",
+            "currencyName": "manat azerbaiyano",
+            "currencySymbol": "m",
+            "split": "qəpik"
+        },
+        {
+            "isoCode": "BAM",
+            "isoNumberCode": "977",
+            "currencyName": "marco convertible de Bosnia-Herzegovina",
+            "currencySymbol": "КМ",
+            "split": "fening"
+        },
+        {
+            "isoCode": "BBD",
+            "isoNumberCode": "52",
+            "currencyName": "dólar de Barbados",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "BDT",
+            "isoNumberCode": "50",
+            "currencyName": "taka de Bangladesh",
+            "currencySymbol": "৳",
+            "split": "paisa"
+        },
+        {
+            "isoCode": "BGN",
+            "isoNumberCode": "975",
+            "currencyName": "Lev búlgaro",
+            "currencySymbol": "лв",
+            "split": "stotinka"
+        },
+        {
+            "isoCode": "BHD",
+            "isoNumberCode": "48",
+            "currencyName": "dinar bahreiní",
+            "currencySymbol": ".د.ب",
+            "split": "fils"
+        },
+        {
+            "isoCode": "BIF",
+            "isoNumberCode": "108",
+            "currencyName": "franco burundés",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "BMD",
+            "isoNumberCode": "60",
+            "currencyName": "dólar bermudeño",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "BND",
+            "isoNumberCode": "96",
+            "currencyName": "dólar de Brunéi",
+            "currencySymbol": "$",
+            "split": "sen"
+        },
+        {
+            "isoCode": "BOB",
+            "isoNumberCode": "68",
+            "currencyName": "Boliviano",
+            "currencySymbol": "Bs.",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "BRL",
+            "isoNumberCode": "986",
+            "currencyName": "Real brasileño",
+            "currencySymbol": "R$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "BSD",
+            "isoNumberCode": "44",
+            "currencyName": "dólar bahameño",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "BTN",
+            "isoNumberCode": "64",
+            "currencyName": "Ngultrum de Bután",
+            "currencySymbol": "Nu.",
+            "split": "chetrum"
+        },
+        {
+            "isoCode": "BWP",
+            "isoNumberCode": "72",
+            "currencyName": "pula de Botsuana",
+            "currencySymbol": "P",
+            "split": "thebe"
+        },
+        {
+            "isoCode": "BYR",
+            "isoNumberCode": "974",
+            "currencyName": "rublo bielorruso",
+            "currencySymbol": "Br",
+            "split": "kapyeyka"
+        },
+        {
+            "isoCode": "BZD",
+            "isoNumberCode": "84",
+            "currencyName": "dólar de Belice",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "CAD",
+            "isoNumberCode": "124",
+            "currencyName": "dólar canadiense",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "CDF",
+            "isoNumberCode": "976",
+            "currencyName": "franco congoleño",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "CHF",
+            "isoNumberCode": "756",
+            "currencyName": "franco suizo",
+            "currencySymbol": "Fr",
+            "split": "rappen"
+        },
+        {
+            "isoCode": "CLP",
+            "isoNumberCode": "152",
+            "currencyName": "peso chileno",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "CNY",
+            "isoNumberCode": "156",
+            "currencyName": "Yuan chino",
+            "currencySymbol": "¥",
+            "split": "fen"
+        },
+        {
+            "isoCode": "COP",
+            "isoNumberCode": "170",
+            "currencyName": "peso colombiano",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "CRC",
+            "isoNumberCode": "188",
+            "currencyName": "colón costarricense",
+            "currencySymbol": "₡",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "CUC",
+            "isoNumberCode": "931",
+            "currencyName": "peso cubano convertible",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "CUP",
+            "isoNumberCode": "192",
+            "currencyName": "peso cubano",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "CVE",
+            "isoNumberCode": "132",
+            "currencyName": "Escudo caboverdiano",
+            "currencySymbol": "Esc or $",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "CZK",
+            "isoNumberCode": "203",
+            "currencyName": "koruna checa",
+            "currencySymbol": "Kč",
+            "split": "haléř"
+        },
+        {
+            "isoCode": "DJF",
+            "isoNumberCode": "262",
+            "currencyName": "franco yibutiano",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "DKK",
+            "isoNumberCode": "208",
+            "currencyName": "corona danesa",
+            "currencySymbol": "kr",
+            "split": "øre"
+        },
+        {
+            "isoCode": "DOP",
+            "isoNumberCode": "214",
+            "currencyName": "peso dominicano",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "DZD",
+            "isoNumberCode": "12",
+            "currencyName": "dinar algerino",
+            "currencySymbol": "د.ج",
+            "split": "Santeem"
+        },
+        {
+            "isoCode": "EGP",
+            "isoNumberCode": "818",
+            "currencyName": "libra egipcia",
+            "currencySymbol": "ج.م",
+            "split": "piaster"
+        },
+        {
+            "isoCode": "ERN",
+            "isoNumberCode": "232",
+            "currencyName": "nakfa eritreo",
+            "currencySymbol": "Nfk",
+            "split": "cent"
+        },
+        {
+            "isoCode": "ETB",
+            "isoNumberCode": "230",
+            "currencyName": "birr etíope",
+            "currencySymbol": "Br",
+            "split": "santim"
+        },
+        {
+            "isoCode": "EUR",
+            "isoNumberCode": "978",
+            "currencyName": "Euro",
+            "currencySymbol": "€",
+            "split": "cent"
+        },
+        {
+            "isoCode": "FJD",
+            "isoNumberCode": "242",
+            "currencyName": "dólar fiyiano",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "FKP",
+            "isoNumberCode": "238",
+            "currencyName": "libra malvinense",
+            "currencySymbol": "£",
+            "split": "penny"
+        },
+        {
+            "isoCode": "GBP",
+            "isoNumberCode": "826",
+            "currencyName": "libra esterlina",
+            "currencySymbol": "£",
+            "split": "penny"
+        },
+        {
+            "isoCode": "GEL",
+            "isoNumberCode": "981",
+            "currencyName": "lari georgiano",
+            "currencySymbol": "ლ",
+            "split": "tetri"
+        },
+        {
+            "isoCode": "GHS",
+            "isoNumberCode": "936",
+            "currencyName": "cedi ghanés",
+            "currencySymbol": "₵",
+            "split": "pesewa"
+        },
+        {
+            "isoCode": "GIP",
+            "isoNumberCode": "292",
+            "currencyName": "libra de Gibraltar",
+            "currencySymbol": "£",
+            "split": "penny"
+        },
+        {
+            "isoCode": "GMD",
+            "isoNumberCode": "270",
+            "currencyName": "dalasi gambiano",
+            "currencySymbol": "D",
+            "split": "butut"
+        },
+        {
+            "isoCode": "GNF",
+            "isoNumberCode": "324",
+            "currencyName": "franco guineano",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "GTQ",
+            "isoNumberCode": "320",
+            "currencyName": "Quetzal guatemalteco",
+            "currencySymbol": "Q",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "GYD",
+            "isoNumberCode": "328",
+            "currencyName": "dólar guyanés",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "HKD",
+            "isoNumberCode": "344",
+            "currencyName": "dólar de Hong Kong",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "HNL",
+            "isoNumberCode": "340",
+            "currencyName": "lempira hondureño",
+            "currencySymbol": "L",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "HRK",
+            "isoNumberCode": "191",
+            "currencyName": "kuna croata",
+            "currencySymbol": "kn",
+            "split": "lipa"
+        },
+        {
+            "isoCode": "HTG",
+            "isoNumberCode": "332",
+            "currencyName": "Gourde haitiano",
+            "currencySymbol": "G",
+            "split": "centime"
+        },
+        {
+            "isoCode": "HUF",
+            "isoNumberCode": "348",
+            "currencyName": "forint húngaro",
+            "currencySymbol": "Ft",
+            "split": "fillér"
+        },
+        {
+            "isoCode": "IDR",
+            "isoNumberCode": "360",
+            "currencyName": "rupiah indonesia",
+            "currencySymbol": "Rp",
+            "split": "sen"
+        },
+        {
+            "isoCode": "ILS",
+            "isoNumberCode": "376",
+            "currencyName": "nuevo shéquel israelí",
+            "currencySymbol": "₪",
+            "split": "agora"
+        },
+        {
+            "isoCode": "INR",
+            "isoNumberCode": "356",
+            "currencyName": "rupia india",
+            "currencySymbol": "₹",
+            "split": "paisa"
+        },
+        {
+            "isoCode": "IQD",
+            "isoNumberCode": "368",
+            "currencyName": "dinar iraquí",
+            "currencySymbol": "ع.د",
+            "split": "fils"
+        },
+        {
+            "isoCode": "IRR",
+            "isoNumberCode": "364",
+            "currencyName": "rial iraní",
+            "currencySymbol": "﷼",
+            "split": "NULL"
+        },
+        {
+            "isoCode": "ISK",
+            "isoNumberCode": "352",
+            "currencyName": "Króna islandesa",
+            "currencySymbol": "kr",
+            "split": "eyrir"
+        },
+        {
+            "isoCode": "JMD",
+            "isoNumberCode": "388",
+            "currencyName": "dólar jamaicano",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "JOD",
+            "isoNumberCode": "400",
+            "currencyName": "dinar jordano",
+            "currencySymbol": "د.ا",
+            "split": "piastre"
+        },
+        {
+            "isoCode": "JPY",
+            "isoNumberCode": "392",
+            "currencyName": "Yen japonés",
+            "currencySymbol": "¥",
+            "split": "sen"
+        },
+        {
+            "isoCode": "KES",
+            "isoNumberCode": "404",
+            "currencyName": "chelín keniata",
+            "currencySymbol": "Sh",
+            "split": "cent"
+        },
+        {
+            "isoCode": "KGS",
+            "isoNumberCode": "417",
+            "currencyName": "Som kirguís",
+            "currencySymbol": "лв",
+            "split": "tyiyn"
+        },
+        {
+            "isoCode": "KHR",
+            "isoNumberCode": "116",
+            "currencyName": "riel camboyano",
+            "currencySymbol": "៛",
+            "split": "sen"
+        },
+        {
+            "isoCode": "KMF",
+            "isoNumberCode": "174",
+            "currencyName": "franco comoriano",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "KPW",
+            "isoNumberCode": "408",
+            "currencyName": "won norcoreano",
+            "currencySymbol": "₩",
+            "split": "chon"
+        },
+        {
+            "isoCode": "KRW",
+            "isoNumberCode": "410",
+            "currencyName": "won surcoreano",
+            "currencySymbol": "₩",
+            "split": "jeon"
+        },
+        {
+            "isoCode": "KWD",
+            "isoNumberCode": "414",
+            "currencyName": "dinar kuwaití",
+            "currencySymbol": "د.ك",
+            "split": "fils"
+        },
+        {
+            "isoCode": "KYD",
+            "isoNumberCode": "136",
+            "currencyName": "dólar caimano",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "KZT",
+            "isoNumberCode": "398",
+            "currencyName": "tenge kazajo",
+            "currencySymbol": "₸",
+            "split": "tïın"
+        },
+        {
+            "isoCode": "LAK",
+            "isoNumberCode": "418",
+            "currencyName": "Kip lao",
+            "currencySymbol": "₭",
+            "split": "att"
+        },
+        {
+            "isoCode": "LBP",
+            "isoNumberCode": "422",
+            "currencyName": "libra libanesa",
+            "currencySymbol": "ل.ل",
+            "split": "piastre"
+        },
+        {
+            "isoCode": "LKR",
+            "isoNumberCode": "144",
+            "currencyName": "rupia de Sri Lanka",
+            "currencySymbol": "Rs",
+            "split": "cent"
+        },
+        {
+            "isoCode": "LRD",
+            "isoNumberCode": "430",
+            "currencyName": "dólar liberiano",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "LSL",
+            "isoNumberCode": "426",
+            "currencyName": "loti lesotense",
+            "currencySymbol": "L",
+            "split": "sente"
+        },
+        {
+            "isoCode": "LTL",
+            "isoNumberCode": "440",
+            "currencyName": "litas lituano",
+            "currencySymbol": "Lt",
+            "split": "centas"
+        },
+        {
+            "isoCode": "LYD",
+            "isoNumberCode": "434",
+            "currencyName": "dinar libio",
+            "currencySymbol": "ل.د",
+            "split": "dirham"
+        },
+        {
+            "isoCode": "MAD",
+            "isoNumberCode": "504",
+            "currencyName": "dirham marroquí",
+            "currencySymbol": "د.م.",
+            "split": "centime"
+        },
+        {
+            "isoCode": "MDL",
+            "isoNumberCode": "498",
+            "currencyName": "leu moldavo",
+            "currencySymbol": "L",
+            "split": "ban"
+        },
+        {
+            "isoCode": "MGA",
+            "isoNumberCode": "969",
+            "currencyName": "ariary malgache",
+            "currencySymbol": "Ar",
+            "split": "iraimbilanja"
+        },
+        {
+            "isoCode": "MKD",
+            "isoNumberCode": "807",
+            "currencyName": "denar macedonio",
+            "currencySymbol": "ден",
+            "split": "deni"
+        },
+        {
+            "isoCode": "MMK",
+            "isoNumberCode": "104",
+            "currencyName": "Kyat birmano",
+            "currencySymbol": "Ks",
+            "split": "pya"
+        },
+        {
+            "isoCode": "MNT",
+            "isoNumberCode": "496",
+            "currencyName": "tughrik mongol",
+            "currencySymbol": "₮",
+            "split": "möngö"
+        },
+        {
+            "isoCode": "MOP",
+            "isoNumberCode": "446",
+            "currencyName": "pataca de Macao",
+            "currencySymbol": "P",
+            "split": "avo"
+        },
+        {
+            "isoCode": "MRO",
+            "isoNumberCode": "478",
+            "currencyName": "ouguiya mauritana",
+            "currencySymbol": "UM",
+            "split": "khoums"
+        },
+        {
+            "isoCode": "MUR",
+            "isoNumberCode": "480",
+            "currencyName": "rupia mauricia",
+            "currencySymbol": "₨",
+            "split": "cent"
+        },
+        {
+            "isoCode": "MVR",
+            "isoNumberCode": "462",
+            "currencyName": "rufiyaa maldiva",
+            "currencySymbol": ".ރ",
+            "split": "laari"
+        },
+        {
+            "isoCode": "MWK",
+            "isoNumberCode": "454",
+            "currencyName": "kwacha malauí",
+            "currencySymbol": "MK",
+            "split": "tambala"
+        },
+        {
+            "isoCode": "MXN",
+            "isoNumberCode": "484",
+            "currencyName": "peso mexicano",
+            "currencySymbol": "$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "MYR",
+            "isoNumberCode": "458",
+            "currencyName": "ringgit malayo",
+            "currencySymbol": "RM",
+            "split": "sen"
+        },
+        {
+            "isoCode": "MZN",
+            "isoNumberCode": "943",
+            "currencyName": "metical mozambiqueño",
+            "currencySymbol": "MT",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "NAD",
+            "isoNumberCode": "516",
+            "currencyName": "dólar namibio",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "NGN",
+            "isoNumberCode": "566",
+            "currencyName": "naira nigeriana",
+            "currencySymbol": "₦",
+            "split": "kobo"
+        },
+        {
+            "isoCode": "NIO",
+            "isoNumberCode": "558",
+            "currencyName": "córdoba nicaragüense",
+            "currencySymbol": "C$",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "NOK",
+            "isoNumberCode": "578",
+            "currencyName": "corona noruega",
+            "currencySymbol": "kr",
+            "split": "øre"
+        },
+        {
+            "isoCode": "NPR",
+            "isoNumberCode": "524",
+            "currencyName": "rupia nepalesa",
+            "currencySymbol": "₨",
+            "split": "paisa"
+        },
+        {
+            "isoCode": "NZD",
+            "isoNumberCode": "554",
+            "currencyName": "dólar neozelandés",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "OMR",
+            "isoNumberCode": "512",
+            "currencyName": "rial omaní",
+            "currencySymbol": "ر.ع.",
+            "split": "Baisa"
+        },
+        {
+            "isoCode": "PAB",
+            "isoNumberCode": "590",
+            "currencyName": "Balboa panameña",
+            "currencySymbol": "B/.",
+            "split": "centésimo"
+        },
+        {
+            "isoCode": "PEN",
+            "isoNumberCode": "604",
+            "currencyName": "nuevo sol peruano",
+            "currencySymbol": "S/.",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "PGK",
+            "isoNumberCode": "598",
+            "currencyName": "Kina de Papúa Nueva Guinea",
+            "currencySymbol": "K",
+            "split": "toea"
+        },
+        {
+            "isoCode": "PHP",
+            "isoNumberCode": "608",
+            "currencyName": "peso filipino",
+            "currencySymbol": "₱",
+            "split": "centavo"
+        },
+        {
+            "isoCode": "PKR",
+            "isoNumberCode": "586",
+            "currencyName": "rupia pakistaní",
+            "currencySymbol": "₨",
+            "split": "paisa"
+        },
+        {
+            "isoCode": "PLN",
+            "isoNumberCode": "985",
+            "currencyName": "zloty polaco",
+            "currencySymbol": "zł",
+            "split": "grosz"
+        },
+        {
+            "isoCode": "PYG",
+            "isoNumberCode": "600",
+            "currencyName": "guaraní paraguayo",
+            "currencySymbol": "₲",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "QAR",
+            "isoNumberCode": "634",
+            "currencyName": "rial qatarí",
+            "currencySymbol": "ر.ق",
+            "split": "dirham"
+        },
+        {
+            "isoCode": "RON",
+            "isoNumberCode": "946",
+            "currencyName": "Leu rumano",
+            "currencySymbol": "L",
+            "split": "ban"
+        },
+        {
+            "isoCode": "RSD",
+            "isoNumberCode": "941",
+            "currencyName": "dinar serbio",
+            "currencySymbol": "дин.",
+            "split": "para"
+        },
+        {
+            "isoCode": "RUB",
+            "isoNumberCode": "643",
+            "currencyName": "rublo ruso",
+            "currencySymbol": "руб.",
+            "split": "kopek"
+        },
+        {
+            "isoCode": "RWF",
+            "isoNumberCode": "646",
+            "currencyName": "franco ruandés",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "SAR",
+            "isoNumberCode": "682",
+            "currencyName": "riyal saudí",
+            "currencySymbol": "ر.س",
+            "split": "halala"
+        },
+        {
+            "isoCode": "SBD",
+            "isoNumberCode": "90",
+            "currencyName": "dólar de las Islas Salomón",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SCR",
+            "isoNumberCode": "690",
+            "currencyName": "rupia de Seychelles",
+            "currencySymbol": "₨",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SDG",
+            "isoNumberCode": "938",
+            "currencyName": "dinar sudanés",
+            "currencySymbol": "£",
+            "split": "piastre"
+        },
+        {
+            "isoCode": "SEK",
+            "isoNumberCode": "752",
+            "currencyName": "corona sueca",
+            "currencySymbol": "kr",
+            "split": "öre"
+        },
+        {
+            "isoCode": "SGD",
+            "isoNumberCode": "702",
+            "currencyName": "dólar de Singapur",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SHP",
+            "isoNumberCode": "654",
+            "currencyName": "libra de Santa Helena",
+            "currencySymbol": "£",
+            "split": "penny"
+        },
+        {
+            "isoCode": "SLL",
+            "isoNumberCode": "694",
+            "currencyName": "leone de Sierra Leona",
+            "currencySymbol": "Le",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SOS",
+            "isoNumberCode": "706",
+            "currencyName": "chelín somalí",
+            "currencySymbol": "Sh",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SRD",
+            "isoNumberCode": "968",
+            "currencyName": "dólar surinamés",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "SSP",
+            "isoNumberCode": "728",
+            "currencyName": "libra",
+            "currencySymbol": "£",
+            "split": "piastre"
+        },
+        {
+            "isoCode": "STD",
+            "isoNumberCode": "678",
+            "currencyName": "dobra de Santo Tomé y Príncipe",
+            "currencySymbol": "Db",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "SYP",
+            "isoNumberCode": "760",
+            "currencyName": "libra siria",
+            "currencySymbol": "ل.س",
+            "split": "piastre"
+        },
+        {
+            "isoCode": "SZL",
+            "isoNumberCode": "748",
+            "currencyName": "lilangeni suazi",
+            "currencySymbol": "L",
+            "split": "cent"
+        },
+        {
+            "isoCode": "THB",
+            "isoNumberCode": "764",
+            "currencyName": "baht tailandés",
+            "currencySymbol": "฿",
+            "split": "satang"
+        },
+        {
+            "isoCode": "TJS",
+            "isoNumberCode": "972",
+            "currencyName": "somoni tayik",
+            "currencySymbol": "ЅМ",
+            "split": "diram"
+        },
+        {
+            "isoCode": "TMT",
+            "isoNumberCode": "934",
+            "currencyName": "manat turcomano",
+            "currencySymbol": "m",
+            "split": "tennesi"
+        },
+        {
+            "isoCode": "TND",
+            "isoNumberCode": "788",
+            "currencyName": "dinar tunecino",
+            "currencySymbol": "د.ت",
+            "split": "millime"
+        },
+        {
+            "isoCode": "TOP",
+            "isoNumberCode": "776",
+            "currencyName": "Pa'anga tongano",
+            "currencySymbol": "T$",
+            "split": "seniti"
+        },
+        {
+            "isoCode": "TRY",
+            "isoNumberCode": "949",
+            "currencyName": "Lira turca",
+            "currencySymbol": "NULL",
+            "split": "kuruş"
+        },
+        {
+            "isoCode": "TTD",
+            "isoNumberCode": "780",
+            "currencyName": "dólar de Trinidad y Tobago",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "TWD",
+            "isoNumberCode": "901",
+            "currencyName": "dólar taiwanés",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "TZS",
+            "isoNumberCode": "834",
+            "currencyName": "chelín tanzano",
+            "currencySymbol": "Sh",
+            "split": "cent"
+        },
+        {
+            "isoCode": "UAH",
+            "isoNumberCode": "980",
+            "currencyName": "grivna ucraniana",
+            "currencySymbol": "₴",
+            "split": "kopiyka"
+        },
+        {
+            "isoCode": "UGX",
+            "isoNumberCode": "800",
+            "currencyName": "chelín ugandés",
+            "currencySymbol": "Sh",
+            "split": "cent"
+        },
+        {
+            "isoCode": "USD",
+            "isoNumberCode": "840",
+            "currencyName": "dólar estadounidense",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "UYU",
+            "isoNumberCode": "858",
+            "currencyName": "peso uruguayo",
+            "currencySymbol": "$",
+            "split": "centésimo"
+        },
+        {
+            "isoCode": "UZS",
+            "isoNumberCode": "860",
+            "currencyName": "Som uzbeko",
+            "currencySymbol": "лв",
+            "split": "tiyin"
+        },
+        {
+            "isoCode": "VEF",
+            "isoNumberCode": "937",
+            "currencyName": "Bolívar Soberano",
+            "currencySymbol": "Bs.S",
+            "split": "cêntimo"
+        },
+        {
+            "isoCode": "VND",
+            "isoNumberCode": "704",
+            "currencyName": "dong vietnamita",
+            "currencySymbol": "₫",
+            "split": "hào"
+        },
+        {
+            "isoCode": "VUV",
+            "isoNumberCode": "548",
+            "currencyName": "vatu vanuatense",
+            "currencySymbol": "Vt",
+            "split": "NULL"
+        },
+        {
+            "isoCode": "WST",
+            "isoNumberCode": "882",
+            "currencyName": "tala samoana",
+            "currencySymbol": "T",
+            "split": "sene"
+        },
+        {
+            "isoCode": "XAF",
+            "isoNumberCode": "950",
+            "currencyName": "franco CFA de África central",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "XCD",
+            "isoNumberCode": "951",
+            "currencyName": "dólar del Caribe Oriental",
+            "currencySymbol": "$",
+            "split": "cent"
+        },
+        {
+            "isoCode": "XOF",
+            "isoNumberCode": "952",
+            "currencyName": "franco CFA de África Occidental",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "XPF",
+            "isoNumberCode": "953",
+            "currencyName": "franco CFP",
+            "currencySymbol": "Fr",
+            "split": "centime"
+        },
+        {
+            "isoCode": "YER",
+            "isoNumberCode": "886",
+            "currencyName": "rial yemení",
+            "currencySymbol": "﷼",
+            "split": "fils"
+        },
+        {
+            "isoCode": "ZAR",
+            "isoNumberCode": "710",
+            "currencyName": "rand sudafricano",
+            "currencySymbol": "R",
+            "split": "cent"
+        },
+        {
+            "isoCode": "ZMW",
+            "isoNumberCode": "967",
+            "currencyName": "kwacha zambiano",
+            "currencySymbol": "ZK",
+            "split": "ngwee"
+        }
+    ]
+}
